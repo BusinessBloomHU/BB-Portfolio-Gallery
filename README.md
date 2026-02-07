@@ -14,7 +14,7 @@ Egyszerű WordPress galéria plugin képekkel és YouTube shortokkal, masonry la
 ## Telepítés
 
 1. Töltsd le vagy klónozd a repo-t
-2. Másold a `bbloom-gallery` mappát a `/wp-content/plugins/` könyvtárba
+2. Másold a `BB-Portfolio-Gallery` mappát a `/wp-content/plugins/` könyvtárba
 3. Telepítsd az **Advanced Custom Fields** plugint
 4. Aktiváld mindkét plugint a WordPress admin felületen
 
