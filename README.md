@@ -50,7 +50,7 @@ Shortcode beszúrása bárhova:
 
 ## Szerzői Jog
 
-© 2026 Business Bloom Consulting  
+© 2026 Business Bloom Consulting® 
 
 ## Support
 
